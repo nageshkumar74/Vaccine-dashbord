@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dashboard {
+    display: flex;
+    height: 100vh;
+}
+
+.kpi-section {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.chart-section {
+    margin-top: 1rem;
+}

@@ -1,0 +1,61 @@
+{
+  "name": "vaccine-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Backend API for vaccine dashboard",
+  "type": "module",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "tsc && node dist/app.js",
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "",
+    "preinstall": "",
+    "prepublishOnly": "",
+    "postpublish": "",
+    "serve": "",
+    "poststop": "",
+    "prerestart": "",
+    "postuninstall": "",
+    "postpack": "",
+    "uninstall": "",
+    "postversion": "",
+    "posttest": "",
+    "preuninstall": "",
+    "postinstall": "",
+    "prestop": "",
+    "restart": "",
+    "prepublish": "",
+    "version": "",
+    "lint": "",
+    "prestart": "",
+    "pretest": "",
+    "preversion": "",
+    "stop": "",
+    "install": "",
+    "publish": "",
+    "postrestart": "",
+    "prepack": "",
+    "poststart": ""
+  },
+  "keywords": [
+    "node",
+    "express",
+    "typescript",
+    "vaccine"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

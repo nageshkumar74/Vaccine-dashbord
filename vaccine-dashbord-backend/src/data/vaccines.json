@@ -1,0 +1,23 @@
+[
+  {
+    "region": "North America",
+    "brand": "Pfizer",
+    "year": "2020",
+    "marketSize": 500,
+    "avgPrice": 20
+  },
+  {
+    "region": "Europe",
+    "brand": "Moderna",
+    "year": "2021",
+    "marketSize": 300,
+    "avgPrice": 25
+  },
+  {
+    "region": "Asia",
+    "brand": "J&J",
+    "year": "2022",
+    "marketSize": 200,
+    "avgPrice": 18
+  }
+]
